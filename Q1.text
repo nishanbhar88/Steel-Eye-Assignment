@@ -1,0 +1,7 @@
+1) Explain what the simple List component does.
+Ans- List Component is used to display List with some texts as List items. The wrappedListComponent returns a memoized components list. 
+It takes an array (items) of strings(text) as props. For each items in the array, it maps through all and displays their content on the 
+screen with a background color. If one items is selected, then it displays it with a different background color (Green). The user can 
+click on an item and it will get selected and will get a background color of Green.
+
+
